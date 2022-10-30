@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
     if (!glfwInit())
         return -1;
 
-    window = glfwCreateWindow(800, 600, "fuk u", NULL, NULL);
+    window = glfwCreateWindow(800, 600, "3D Cube", NULL, NULL);
 
     if (!window) {
         glfwTerminate();
