@@ -1,0 +1,7 @@
+Dependencies:
+
+external Libs: 
+GLFW
+GLUT
+
+Statically linked via VS Community 2022
